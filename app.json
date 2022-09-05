@@ -1,5 +1,5 @@
 {
-    "name": "VIHANA MD",
+    "name": "MUSIC MD",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -75,25 +75,25 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212611740127"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212774339435"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212693563470"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "MUSIC 𝐌𝐃"
     },
       
 "OWNER_NAME" :{
@@ -111,19 +111,19 @@
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/EtHvQYZI6w2LrcZRNoKL1y"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY MUSIC MD"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY MUSIC MD*"
 },
     
 "IMG_URL" :{
